@@ -1,4 +1,5 @@
 https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/
+
 Given an array A of positive integers. Your task is to find the leaders in the array. An element of array is a leader if it is greater than or equal to all the elements to its right side. The rightmost element is always a leader. 
 
 Example 1:
